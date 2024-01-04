@@ -1,0 +1,5 @@
+{
+    "title": "Machine learnig vs deep learning ",
+    "response": "This video is about the difference between machine learning and deep learning. The speaker explains the hierarchy of artificial intelligence and its subfields, including machine learning and deep learning. He uses the analogy of ordering pizza to demonstrate how machine learning algorithms make predictions based on structured labeled data, while deep learning algorithms can ingest unstructured data and automatically determine features without human intervention. The video also discusses neural networks, supervised learning, unsupervised learning, and the distinction between machine learning and deep learning based on the number of layers in a neural network and the requirement for human data labeling.",
+    "URL": "https://www.youtube.com/watch?v=q6kJ71tEYqM"
+}
