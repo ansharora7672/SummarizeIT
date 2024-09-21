@@ -20,5 +20,5 @@ SummarizeIT is capable of:
 5. Delivering a conversational environment for a personalized user experience.
 
 ## Tech Stack
-Python: The core programming language used for developing the application.
-CustomTkinter: Used for creating the graphical user interface (GUI).
+1. Python: The core programming language used for developing the application.
+2. CustomTkinter: Used for creating the graphical user interface (GUI).
